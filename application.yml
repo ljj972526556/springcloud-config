@@ -6,8 +6,8 @@
 ---
 spring: 
   profiles: dev
-    application: 
-      name: springcloud-cofig-ncepu-dev
+  application: 
+    name: springcloud-cofig-ncepu-dev
       
 ---
 spring: 
